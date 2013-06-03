@@ -4,6 +4,7 @@ module TestUrls
   VALID = [
     "http://google.com",
     "http://foobar.com/#",
+    "http://foobar.com/#!",
     "http://google.com/#foo",
     "http://google.com/#search?q=iphone%20-filter%3Alinks",
     "http://twitter.com/#search?q=iphone%20-filter%3Alinks",
